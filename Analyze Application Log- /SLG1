@@ -1,0 +1,29 @@
+Struggling to debug SAP errors? You’re probably ignoring this underrated TCode…
+
+There’s one transaction code every SAP consultant must know:
+SLG1 - Analyse Application Log.
+
+Most skip it.
+The smart ones? They swear by it.
+
+Here’s why:
+↳ It helps you trace exactly what went wrong - with timestamps.
+ ↳ You can filter by user, transaction code, and program.
+ ↳ Want to check logs from background jobs or batch inputs? Done.
+ ↳ Need to debug an error even after the user is long gone? No problem.
+ ↳ It even lets you view logs from archived data!
+
+Real-time use case?
+ That nasty PO error your user reported 3 days back?
+ Run SLG1 → Filter by user & time → Boom! The exact log is right there.
+
+Perfect for:
+ ✅ Functional consultants
+ ✅ Support teams
+ ✅ Audits & compliance checks
+
+Don’t just react to issues.
+ Trace. Solve. Document. Repeat.
+
+Next time you're stuck in the dark,
+ SLG1 is your flashlight.
